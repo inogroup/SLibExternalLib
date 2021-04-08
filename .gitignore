@@ -1,0 +1,4 @@
+*.ilk
+*.iobj
+*.ipdb
+yasm.pdb
